@@ -142,4 +142,4 @@ while (counterOneForTaskTwelve <= 9) {
     counterOneForTaskTwelve++;
 }
 
-alert(`№ 9\n${mainResultForTaskTwelve.slice(0, mainResultForTaskTwelve.length -2)}.`);
+alert(`№ 12\n${mainResultForTaskTwelve.slice(0, mainResultForTaskTwelve.length -2)}.`);
